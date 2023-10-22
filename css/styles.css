@@ -1,0 +1,70 @@
+body {
+    background-image: url(../images/sailboatbackground.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    font-size: 10px;
+    font-family: "Times New Roman", cursive, sans-serif;
+    text-decoration: "underline";
+    text-align: "right";
+    background-color: rgba(214, 214, 214, 0.588);
+    border-radius: 10px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: darkblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: rgb(15, 7, 240);
+    text-align: center;
+    background-color: lightblue;
+    padding: 10px;
+    border: 5px solid darkblue;
+    border-radius: 10px;
+}
+
+p {
+    color: black;
+    background-color: rgba (135, 206, 235, 0.5);
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    border: 2px solid rgb(0, 27, 234);
+    background-color: rgba(170, 200, 211, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+li {
+    margin-left: 25px; 
+}
+
+.biglink {
+    font-size: 40px;
+    font-family: "Times New Roman", cursive, sans-serif;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+
